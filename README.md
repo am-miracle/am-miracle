@@ -6,9 +6,9 @@ I worked with companies like Kreatoors, Khoomi, ICOWEB Agency, and Daabo, contri
 
 Right now, I’m diving deeper into smart contract development with Solidity, especially focused on improving security practices and understanding how to build reliable dApps. I'm also like contributing to exicting **open-source** projects on Web3 space either through writing or code. 
 
-I have experience workings with various programming languages like Javascript, Typescript, Solidity, Move, Rust.
+I have experience working with various programming languages like Javascript, Typescript, Solidity, Move, and Rust.
 
-Outside work, I’m really into football, kickboxing, and weightlifting — they help me stay focused and disciplined.
+Outside work, I’m really into football, kickboxing, and weightlifting. they help me stay focused and disciplined.
 
 ## Links:
 - [Portfolio](https://judemiracle.netlify.app/)
