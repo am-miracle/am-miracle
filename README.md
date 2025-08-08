@@ -15,3 +15,4 @@ Outside work, I’m really into football, kickboxing, and weightlifting. They he
 - [Logrocket](https://blog.logrocket.com/author/judemiracle/)
 - [LinkedIn](https://www.linkedin.com/in/miracle-jude-4b7a4b179)
 - [Twitter](https://www.twitter.com/miraclejudeiv)
+- [Medium](https://medium.com/@judemiracle)
