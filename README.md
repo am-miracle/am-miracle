@@ -1,12 +1,10 @@
 # ReadMe
 
-I’m a software developer and technical writer with a strong focus on frontend development and Web3 technologies, with over 4 years of experience. I help companies build responsive, performant, and accessible user interfaces using various web technologies like React, Next.js, Tailwind CSS, etc. Alongside that, I’m also a technical writer at LogRocket, where I write in-depth articles on JavaScript, React, and Web3, tailored for audiences ranging from beginners to advanced developers.
+Hey anon! I write JS, Rust, and Go, and I’m currently exploring Kubernetes. I enjoy building scalable systems and figuring out how things work under the hood.
 
-I worked with companies like Kreatoors, Khoomi, ICOWEB Agency, and Daabo, contributing to various platforms like e-commerce, Saas platforms, AI content management tool, etc. My main strengths lie in creating pixel-perfect UIs, writing docs, problem solving, documenting APIs, collaborating across teams, and making complex technical topics accessible through writing.
+I started out building frontend-heavy apps with React and Next.js, then moved into full-stack and Web3, working with smart contracts and backends in Rust, Node.js, and Go. Along the way, I’ve also written technical content for platforms like LogRocket, Decodo, Webiny, LTV protocol, OpenReplay, etc., breaking down complex ideas for developers.
 
-Right now, I’m diving deeper into smart contract development with Solidity, especially focused on improving security practices and understanding how to build reliable dApps. I'm also like contributing to exciting **open-source** projects on the Web3 space either through writing or code. 
-
-I have experience working with various programming languages like Javascript, Typescript, Solidity, Move, and Rust.
+Now I’m focused on building high-performance tools, improving developer experience, and going deeper into systems and infrastructure.
 
 Outside work, I’m really into football, kickboxing, and weightlifting. They help me stay focused and disciplined.
 
