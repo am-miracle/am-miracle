@@ -1,6 +1,6 @@
 # ReadMe
 
-Hey anon! I write JS, Rust, and Go, and I’m currently exploring Kubernetes. I enjoy building scalable systems and figuring out how things work under the hood.
+Hey anon! I write JS, TS, Rust, and Go, and I’m currently exploring Kubernetes. I enjoy building scalable systems and figuring out how things work under the hood.
 
 I started out building frontend-heavy apps with React and Next.js, then moved into full-stack and Web3, working with smart contracts and backends in Rust, Node.js, and Go. Along the way, I’ve also written technical content for platforms like LogRocket, Decodo, Webiny, LTV protocol, OpenReplay, etc., breaking down complex ideas for developers.
 
