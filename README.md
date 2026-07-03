@@ -9,8 +9,8 @@ Now I’m focused on building high-performance tools, improving developer experi
 Outside work, I’m really into football, kickboxing, and weightlifting. They help me stay focused and disciplined.
 
 ## Links:
-- [Portfolio](https://judemiracle.netlify.app/)
+- [Portfolio](https://judemiracle.com/)
 - [Logrocket](https://blog.logrocket.com/author/judemiracle/)
 - [LinkedIn](https://www.linkedin.com/in/miracle-jude-4b7a4b179)
-- [Twitter](https://www.twitter.com/miraclejudeiv)
+- [X](https://www.x.com/miraclejudeiv)
 - [Medium](https://medium.com/@judemiracle)
