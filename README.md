@@ -6,7 +6,7 @@ I started out building frontend-heavy apps with React and Next.js, then moved in
 
 Now I’m focused on building high-performance tools, improving developer experience, and going deeper into systems and infrastructure.
 
-Outside work, I’m really into football, kickboxing, and weightlifting. They help me stay focused and disciplined.
+Outside work, I’m really into Sports and exercise (football, NBA, kickboxing, and weightlifting). They help me stay focused and disciplined.
 
 ## Links:
 - [Portfolio](https://judemiracle.com/)
